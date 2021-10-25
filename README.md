@@ -7,7 +7,7 @@ Este foi o projeto de finalização do bloco de FrontEnd durante o curso da Tryb
 O projeto é um aplicativo de receitas, onde através de duas APIs podemos requisitar tanto receitas de comidas quanto bebidas usando a tecnologia React - Redux.
 Dentro da aplicação é possível pesquisar por Nome, Ingredientes, Categorias, Origem da receita. Fazer uma pesquisa aleatória. Marcar a receita favoritas, marcar o andamento da receita e quando for concluida, criando listagem das mesmas. 
 
-Conforme fui me aprimorando em cursos e estudos extras sobre liderança e comunicação assertiva,  fiz novamente o papel de lider da equipe e conduzi os prazos e entregas, bem como ajuda na solução de problemas do projeto. E especialmente na resolução de conflitos internos.
+Conforme fui me aprimorando em cursos e estudos extras sobre liderança e comunicação assertiva,  fiz novamente o papel de lider da equipe e conduzi os prazos e entregas, bem como ajuda na solução de problemas do projeto. E especialmente na resolução de conflitos internos. E conseguimos atingir a meta de 100% do projeto.
 
 Com este projeto, continuei a aprimorar minha qualidade como líder, facilitador, administrador de metas e prazos, influenciar os indivíduos para establecer a percepção pertencimento do projeto. E também fiz o branding do projeto, identificando com a marca Specialle Cuisine e sua logotipia.
 
