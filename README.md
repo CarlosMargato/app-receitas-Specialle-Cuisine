@@ -1,4 +1,4 @@
-## Boas vindas ao repositório do projeto App de receitas Specialle Cuisine!
+## Boas vindas ao repositório do projeto App de receitas: Specialle Cuisine!
 
 ## Meus comentários
 
