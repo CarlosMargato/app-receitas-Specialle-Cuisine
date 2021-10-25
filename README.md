@@ -1,4 +1,4 @@
-## Boas vindas ao repositório do projeto Trivia Quizz!
+## Boas vindas ao repositório do projeto App de receitas Specialle Cuisine!
 
 ## Meus comentários
 
@@ -9,7 +9,7 @@ Dentro da aplicação é possível pesquisar por Nome, Ingredientes, Categorias,
 
 Conforme fui me aprimorando em cursos e estudos extras sobre liderança e comunicação assertiva,  fiz novamente o papel de lider da equipe e conduzi os prazos e entregas, bem como ajuda na solução de problemas do projeto. E especialmente na resolução de conflitos internos.
 
-Com este projeto, continuei a aprimorar minha qualidade como líder, facilitador, administrador de metas e prazos, influenciar os indivíduos para establecer a percepção pertencimento do projeto.
+Com este projeto, continuei a aprimorar minha qualidade como líder, facilitador, administrador de metas e prazos, influenciar os indivíduos para establecer a percepção pertencimento do projeto. E também fiz o branding do projeto, identificando com a marca Specialle Cuisine e sua logotipia.
 
 ## Tecnologias utilizadas:
   - React
