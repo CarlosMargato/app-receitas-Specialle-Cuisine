@@ -2,12 +2,14 @@
 
 ## Meus comentários
 
-Durante o curso de desenvolvimento da Trybe, nós fizemos trabalhos em equipe de 04 pessoas.
-Neste caso em especial, fizemos um projeto de perguntas e respostas através de uma API utilizando a tecnologia React e Redux para adquirir as peguntas e respostas randomicamente.
+Este foi o projeto de finalização do bloco de FrontEnd durante o curso da Trybe , nós fizemos trabalhos em equipe de 04 pessoas.
 
-Desde o ínicio desse projeto, me coloquei a disposição da equipe para liderar, coodenar e auxiliar na comunicação da euipe, além de ajudar no ato de codar, fui responsável por estabelecer prazos de entrega bem como ouvir os outros colegas participantes e realocar recursos para viabilizar a conquista da equipe. Tivemos 100% na execução do projeto.
+O projeto é um aplicativo de receitas, onde através de duas APIs podemos requisitar tanto receitas de comidas quanto bebidas usando a tecnologia React - Redux.
+Dentro da aplicação é possível pesquisar por Nome, Ingredientes, Categorias, Origem da receita. Fazer uma pesquisa aleatória. Marcar a receita favoritas, marcar o andamento da receita e quando for concluida, criando listagem das mesmas. 
 
-Com este projeto, tive a percepção da minha qualidade como líder, facilitador, administrador de metas e prazos, capacidade de influenciar os indivíduos em dar senso de pertencimento do projeto.
+Conforme fui me aprimorando em cursos e estudos extras sobre liderança e comunicação assertiva,  fiz novamente o papel de lider da equipe e conduzi os prazos e entregas, bem como ajuda na solução de problemas do projeto. E especialmente na resolução de conflitos internos.
+
+Com este projeto, continuei a aprimorar minha qualidade como líder, facilitador, administrador de metas e prazos, influenciar os indivíduos para establecer a percepção pertencimento do projeto.
 
 ## Tecnologias utilizadas:
   - React
@@ -24,11 +26,15 @@ Abra o terminal e crie um diretório no local de sua preferência com o comando 
 
 Entre no diretório que acabou de criar e depois clone o projeto:
   digite: cd projetos-margato
-  digite: git clone git@github.com:CarlosMargato/Trivia-Quiz-Project.git
-
+  digite: git clone git@github.com:CarlosMargato/app-receitas-Specialle-Cuisine.git
+  
 Entre no diretório do projeto:
-  digite: cd Trivia-Quiz-Project
+  digite: cd app-receitas-Specialle-Cuisine
   digite: npm install
 
 Para entrar no projeto:
   digite: npm start
+  
+## Para este projeto é necessário rodar resolução de 414 x 736 no Toggle Device Toolbar
+
+Com a aplicação aberta, clique com o botão direito em inspecionar, no canto superior da no tela téra a pequena imagem de um celular/tablet,  clicando nele a aplicação se adaptará para a imagem programada nele, você poderá alterar para a resolução 414 X 736 ou para a dimensão Iphone6/7/8/Plus. E assim conseguirá visualizar a aplicação.
